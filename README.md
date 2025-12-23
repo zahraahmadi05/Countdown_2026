@@ -13,3 +13,14 @@ JavaScript
 این پروژه تحت لایسنس است.
 
 
+A clock that displays the time remaining until the New Year.
+
+Features:
+Displays the remaining time in days, hours, minutes, and seconds.
+
+Technologies:
+HTML
+CSS
+JavaScript
+
+This project is under license.
